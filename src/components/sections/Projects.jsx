@@ -27,7 +27,7 @@ export const Projects = () => {
                             ))}
                         </div>
                         <div className="flex justfy-between items-center">
-                            <a href="" className="text-purple-500 hover:text-purple-300 transition-colors my-4">View Project </a>
+                            <a href="https://github.com/jiracipika/devoverflow" className="text-purple-500 hover:text-purple-300 transition-colors my-4">View Project </a>
                         </div>
                     </div>
                 </div>
